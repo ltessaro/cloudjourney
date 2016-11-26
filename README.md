@@ -6,4 +6,4 @@ We are going to cover here:
 - AWS Components
 - Sample Application to show multiple concepts.
 
-[https://github.com/ltessaro/cloudjourney/blob/master/sample_aws_project.png]
+![alt first blue print](https://github.com/ltessaro/cloudjourney/blob/master/sample_aws_project.png)
