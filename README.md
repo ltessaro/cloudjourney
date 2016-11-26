@@ -5,3 +5,5 @@ We are going to cover here:
 - 12 Factor Apps.
 - AWS Components
 - Sample Application to show multiple concepts.
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
