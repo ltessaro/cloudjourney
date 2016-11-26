@@ -6,4 +6,4 @@ We are going to cover here:
 - AWS Components
 - Sample Application to show multiple concepts.
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[https://github.com/ltessaro/cloudjourney/blob/master/sample_aws_project.png]
